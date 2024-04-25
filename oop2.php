@@ -2,7 +2,7 @@
 class RentalMotor {
     protected $nama_pelanggan;
     protected $lama_waktu;
-    private $nama_member = ["rahman", "samuel", "Daerren", "daerren"];
+    private $nama_member = ["Samuel", "samuel", "Daerren", "daerren"];
     private $harga_motor = [
         "Scooter" => 50000,
         "SBike" => 70000,
